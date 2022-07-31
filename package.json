@@ -1,0 +1,15 @@
+{
+  "name": "infra-landing-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thatismunn/infra-landing-page",
+  "author": "Ikramullah <ikramullahzx@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
